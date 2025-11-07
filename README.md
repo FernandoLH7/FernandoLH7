@@ -64,7 +64,7 @@ I build **end-to-end autonomous systems**: perception (YOLOv8/CNNs), motion plan
 
 ### 📬 Let’s connect
 I’m open to internships, research collabs, and roles in **autonomous systems / applied AI**.  
-- LinkedIn: *add your link here*  
-- Email: *add your email here*  
+- LinkedIn: www.linkedin.com/in/fernando-andrés-lópez-hernández-4a7480271
+- Email: fernando.lopezhz@udlap.mx
 
 If you like my work, feel free to ⭐️ a repo and say hi!
