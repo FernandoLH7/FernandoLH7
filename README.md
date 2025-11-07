@@ -4,6 +4,11 @@
   <img src="assets/fernandolh7-banner-blue-ai.png" alt="FernandoLH7 — Robotics & AI Engineer · Junior Software Developer" />
 </p>
 
+<p align="center">
+  <!-- Python badge -->
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</p>
+
 ## 🤖 Robotics & AI Engineer · Junior Software Developer
 I build **end-to-end autonomous systems**: perception (YOLOv8/CNNs), motion planning & control, and robust software on **ROS/ROS2**. From simulation (**Gazebo**) to real robots, I turn research into reliable, working products—with clean code, CI, and measurable results.
 
