@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/fernandolh7-banner-blue-ai.png" alt="FernandoLH7 — Robotics & AI Engineer · Junior Software Developer" />
-</p>
-
-<p align="center">
   <!-- Python -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 
