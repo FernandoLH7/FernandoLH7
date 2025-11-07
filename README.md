@@ -1,7 +1,7 @@
 # Welcome! I'm FernandoLH7 👋
 
 <p align="center">
-  <img src="assets/fernandolh7-banner-blue-ai.png" alt="FernandoLH7 — Robotics & AI Engineer · Junior Software Developer" />
+  <img src="assets/fernandolh7-banner-blue-ai.png" alt="FernandoLH7 — Robotics & AI Engineer · Software Developer" />
 </p>
 
 <p align="center">
