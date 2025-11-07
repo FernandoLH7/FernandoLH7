@@ -30,7 +30,7 @@
   <!-- <img src="...otro-badge..." alt="..." /> -->
 </p>
 
-## 🤖 Robotics & AI Engineer · Junior Software Developer
+## 🤖 Robotics & AI Engineer · Software Developer
 I build **end-to-end autonomous systems**: perception (YOLOv8/CNNs), motion planning & control, and robust software on **ROS/ROS2**. From simulation (**Gazebo**) to real robots, I turn research into reliable, working products—with clean code, CI, and measurable results.
 
 ---
